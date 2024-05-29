@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">A passionate Web and App developer from India</h3>
+<h3 align="center">A passionate Web and App developer.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xw4H_WTVOE28ngE5BUvXaSoH1kfmIW8i2MN8LZxjQw&s">
 <h3 align="left">Connect with me:</h3>
 
