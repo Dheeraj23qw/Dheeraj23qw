@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on  chorpolice<br>👯 I’m looking to collaborate on Techshield<br>
 
 
 ## 🌐 Socials:
