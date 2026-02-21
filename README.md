@@ -43,6 +43,27 @@ I engineer **Production-Grade Systems** where high-performance code meets real-w
 
 ---
 
+---
+
+### 📱 Field Operations (Live on Play Store)
+*Deploying production-grade solutions to the global market.*
+
+<p align="center">
+  <a href="YOUR_PLAY_STORE_LINK_1">
+    <img src="https://img.shields.io/badge/Google_Play-LIVE-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="YOUR_PLAY_STORE_LINK_2">
+    <img src="https://img.shields.io/badge/Google_Play-LIVE-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
+
+| Project | Status | Tech Stack | Deployment |
+| :--- | :--- | :--- | :--- |
+| **App Name 1** | 🟢 Production | `React Native` `Redux` `Node.js` | [View on Store](YOUR_LINK) |
+| **App Name 2** | 🟢 Production | `Expo` `FastAPI` `PostgreSQL` | [View on Store](YOUR_LINK) |
+
+---
+
 ### 📊 System Metrics & Impact
 
 <p align="center">
