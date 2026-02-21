@@ -33,10 +33,7 @@
 
 ### 📊 Performance Metrics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dheeraj23qw&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=2ebf91&icon_color=6971e0" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj23qw&theme=tokyonight&layout=compact&hide_border=true&title_color=2ebf91" />
-</p>
+
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj23qw&theme=tokyonight&hide_border=true&stroke=2ebf91&ring=6971e0&fire=2ebf91" />
