@@ -14,7 +14,7 @@
 ---
 
 ### 🏗️ Engineering Philosophy
-> **"A repo is just a draft; a product is an experience."** > I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
+> ** A repo is just a draft; a product is an experience."** > I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
 
 ---
 
