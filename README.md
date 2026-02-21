@@ -44,7 +44,7 @@
 <br/><br/>
 
 <!-- Replace with your actual app icon link -->
-<img src="Dheeraj23qw/playstore.png" width="110" style="border-radius:22px;" />
+<img src="playstore.png" width="110" style="border-radius:22px;" />
 
 <br/><br/>
 
