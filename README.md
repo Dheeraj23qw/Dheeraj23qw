@@ -31,6 +31,48 @@
 
 ---
 
+### 📱 Production Showcase
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Project Name</h4>
+      <p>A full-scale mobile application engineered for the <b>Google Play Store</b>. Focused on seamless UX and real-time data sync.</p>
+      <a href="YOUR_PLAYSTORE_LINK">
+        <img src="https://img.shields.io/badge/Google_Play-41E07F?style=for-the-badge&logo=google-play&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <b>Key Features:</b>
+      <ul>
+        <li>Sub-100ms response times</li>
+        <li>Automated scaling</li>
+        <li>Cross-platform consistency</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Full-Stack Web Product</h4>
+      <p>High-traffic web ecosystem designed for [Purpose]. Engineered from the ground up for high-load performance.</p>
+      <a href="YOUR_LIVE_URL">
+        <img src="https://img.shields.io/badge/Live_Demo-6971e0?style=for-the-badge&logo=browserstack&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <b>Tech Stack:</b>
+      <ul>
+        <li>Next.js & Tailwind</li>
+        <li>Redis Caching</li>
+        <li>PostgreSQL Optimization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 📊 Performance Metrics
 
 
