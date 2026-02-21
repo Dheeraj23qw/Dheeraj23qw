@@ -112,26 +112,4 @@ I engineer **Production-Grade Systems** where high-performance code meets real-w
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6971e0,100:2ebf91&height=100&section=footer" />
 </p>
 
-### 📊 System Metrics & Impact
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dheeraj23qw&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=2ebf91&icon_color=6971e0" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj23qw&theme=tokyonight&layout=compact&hide_border=true&title_color=2ebf91" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj23qw&theme=tokyonight&hide_border=true&stroke=2ebf91&ring=6971e0&fire=2ebf91" />
-</p>
-
----
-
-### 🤝 Connect to the Grid
-<p align="center">
-<a href="https://linkedin.com/in/nitiandheeraj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rahulkumar9508820247@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/_dheeraj__19" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6971e0,100:2ebf91&height=100&section=footer" />
-</p>
