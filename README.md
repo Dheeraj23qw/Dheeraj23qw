@@ -31,35 +31,41 @@
 
 ---
 
-🚀 Production Portfolio
-<table border="0">
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-<img src="https://img.shields.io/badge/PLAY_STORE-LIVE-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-<h3>📱 flagship_app_name</h3>
-<p>A high-traffic mobile ecosystem built with <b>React Native & Expo</b>. Engineered for seamless UX and real-time data sync.</p>
-<p>
-<img src="https://img.shields.io/badge/Performance-Sub--100ms-6971e0?style=flat-square" />
-<img src="https://img.shields.io/badge/Scale-Production-2ebf91?style=flat-square" />
+---
+
+### 🚀 Production Portfolio
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PLAY_STORE-LIVE-3DDC84?style=flat-square&logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/Product-Mobile_Game-6971e0?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Production-2ebf91?style=flat-square" />
+
+<br/><br/>
+
+<!-- Replace with your actual app icon link -->
+<img src="YOUR_APP_ICON_URL" width="110" style="border-radius:22px;" />
+
+<br/><br/>
+
+## Chor Police
+
+Modern mobile remake of the classic **Raja, Mantri, Chor, Sipahi**  
+Built for real users. Designed for repeat play.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Multiplayer-Enabled-6971e0?style=flat-square" />
+<img src="https://img.shields.io/badge/Bot-Support-2ebf91?style=flat-square" />
+<img src="https://img.shields.io/badge/Rewards-System-6971e0?style=flat-square" />
+
+<br/><br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.dheeraj.chorpolice">
+<b>View on Google Play →</b>
+</a>
+
 </p>
-<a href="YOUR_LINK"><b>View on Play Store →</b></a>
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-<img src="https://img.shields.io/badge/WEB_ENGINE-LIVE-6971e0?style=for-the-badge&logo=vercel&logoColor=white" />
-<h3>🌐 scalable_web_product</h3>
-<p>Full-stack <b>MERN</b> application optimized for high-load clusters. Deep SQL optimization and Redis caching layer.</p>
-<p>
-<img src="https://img.shields.io/badge/Status-Active-2ebf91?style=flat-square" />
-<img src="https://img.shields.io/badge/Arch-Cloud_Native-6971e0?style=flat-square" />
-</p>
-<a href="YOUR_LINK"><b>Explore Live Demo →</b></a>
-</div>
-</td>
-</tr>
-</table>
 
 ### 📊 Performance Metrics
 
