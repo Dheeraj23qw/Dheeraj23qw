@@ -67,9 +67,9 @@
 
 ### 📊 Engineering Velocity
 
+
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj23qw&theme=tokyonight&hide_border=true&stroke=2ebf91&ring=6971e0&fire=2ebf91" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj23qw&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj23qw&theme=tokyonight&hide_border=true&stroke=2ebf91&ring=6971e0&fire=2ebf91" />
 </p>
 
 ---
