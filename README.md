@@ -1,4 +1,4 @@
-# <p align="center">🚀 Dheeraj | Software & App Engineer</p>
+# <p align="center">🚀 Dheeraj | Software Engineer</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6971e0,100:2ebf91&height=200&section=header&text=Building%20Products,%20Not%20Just%20Code&fontSize=40&animation=fadeIn&fontAlignY=35" />
@@ -15,7 +15,7 @@
 ---
 
 ### 🏗️ Engineering Philosophy
-**A repo is just a draft; a product is an experience.** I focus on the transition from local code to global traffic. By engineering for **resilience** and **real-world scale**, I ensure that "it works on my machine" translates to "it works for everyone, everywhere."
+**A repo is just a draft; a product is an experience.** I focus on the transition from local code to global traffic. By engineering for **resilience** and **real-world scale**,My focus is simple: if it doesn't solve a problem for a user, the code doesn't matter."
 
 ---
 
