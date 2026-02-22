@@ -13,12 +13,12 @@
 
 ---
 
-### 🏗️ Engineering Philosophy
+###  Engineering Philosophy
 > A repo is just a draft; a product is an experience. I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -30,7 +30,7 @@
 | **State & Tools**| ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?logo=react&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 ---
 
-### 📱 Featured Production Release
+### Featured Production Release
 
 <div align="center">
   <table width="100%">
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 Engineering Velocity
+###  Engineering Velocity
 
 
 <p align="center">
