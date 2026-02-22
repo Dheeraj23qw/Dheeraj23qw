@@ -65,7 +65,6 @@
 
 ---
 
-###  Engineering Velocity
 
 
 <p align="center">
