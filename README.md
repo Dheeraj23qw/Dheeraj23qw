@@ -31,7 +31,7 @@
 ---
 
 
-### 🏆 My GitHub Badges
+### GitHub Badges
 
 <div align="left">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="100px" title="Pull Shark" />
