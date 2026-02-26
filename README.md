@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/Status-Shipping%20Products-6971e0.svg?style=for-the-badge" />
 </p>
 
-### 🏆 My GitHub Achievements
+---
+
+### 🏆 My GitHub Badges
 
 <div align="left">
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="100px" title="Pull Shark" />
@@ -19,6 +21,7 @@
   <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="100px" title="Quickdraw" />
 </div>
 
+----
 ---
 
 > A repo is just a draft; a product is an experience. I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
