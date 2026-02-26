@@ -85,8 +85,10 @@
 
 ---
 
-### 🏆 Open Source Achievements
+### 🏆 Open Source Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj23qw&theme=tokyonight&no-frame=true&margin-w=15&v=2" alt="hp-trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj23qw&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Dheeraj's Trophies" />
+  </a>
 </p>
