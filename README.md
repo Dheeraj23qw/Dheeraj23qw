@@ -16,14 +16,7 @@
 > A repo is just a draft; a product is an experience. I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
 
 ---
----
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj23qw&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
----
 ###  Tech Stack
 
 | Category | Technologies |
