@@ -30,7 +30,6 @@
 | **State & Tools**| ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?logo=react&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 ---
 
----
 
 ### 🏆 My GitHub Badges
 
