@@ -11,17 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Shipping%20Products-6971e0.svg?style=for-the-badge" />
 </p>
 
----
 
-### 🏆 My GitHub Badges
-
-<div align="left">
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="100px" title="Pull Shark" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="100px" title="YOLO" />
-  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="100px" title="Quickdraw" />
-</div>
-
-----
 ---
 
 > A repo is just a draft; a product is an experience. I bridge the gap between local `localhost:3000` and global production traffic. If it doesn't solve a human problem, the syntax is irrelevant.
@@ -39,6 +29,18 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
 | **State & Tools**| ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-443E38?logo=react&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 ---
+
+---
+
+### 🏆 My GitHub Badges
+
+<div align="left">
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="100px" title="Pull Shark" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="100px" title="YOLO" />
+  <img src="https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="100px" title="Quickdraw" />
+</div>
+
+----
 
 ### Featured Production Release
 
