@@ -82,3 +82,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6971e0,100:2ebf91&height=80&section=footer" />
 </p>
+
+---
+
+### 🏆 Open Source Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj23qw&theme=tokyonight&no-frame=true&column=6" />
+</p>
