@@ -16,7 +16,10 @@
 
 > A repo is just a draft; a product is an experience. I bridge the gap between local `localhost:3000` and global production traffic.
 
-## 🚀 Tech Stack
+
+
+
+## Tech Stack
 
 | Category | Technologies |
 |:--|:--|
