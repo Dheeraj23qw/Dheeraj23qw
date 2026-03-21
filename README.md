@@ -1,4 +1,4 @@
-# <p align="center"> Dheeraj Kumar Yadav | Software Engineer</p>
+# <p align="center"> Dheeraj Kumar Yadav </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6971e0,100:2ebf91&height=220&section=header&text=Building%20Products,%20Not%20Just%20Code&fontSize=42&animation=fadeIn&fontAlignY=35" />
